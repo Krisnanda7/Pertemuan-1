@@ -11,6 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, tempora quisquam commodi modi in, est nihil necessitatibus molestias possimus vel cum consequatur? Ex nemo facere quasi hic deleniti perspiciatis cum?</p>
   <p>Lorem ipsum dolor sit amet.</p>
   <HelloWorld msg="Vite + Vue" />
 </template>
